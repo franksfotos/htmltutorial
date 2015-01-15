@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<meta charset="utf-8"/>
+
+
+    <title>Simon lernt HTML</title>
+
+    <!-- This is a comment, by the way -->
+
+</head>
+
+<body>
+
+<h1>Mein Praktium bei VDM-VK4</h1>
+
+<h2>Was gefällt mir am tollsten</h2>
+<p>Hier bitte eine <em>kurze</em> Zusammenfassung.</p>
+
+<h2>Was finde ich noch ganz gut</h2>
+<ol>
+    <li>Erstens</li>
+    <li>Zweitens</li>
+        <ul>
+            <li>Wegen diesem Punkt</li>
+            <li>Und wegen diesem Punkt</li>
+        </ul>
+    <li>Drittens</li>
+    <li>Viertens</li>
+</ol>
+
+<h2>Das hier ist meine Lieblingswebseite (Bitte ein Bild verlinken)</h2>
+<p><a href="http://www.htmldog.com"><img src="http://lorempicsum.com/simpsons/255/200/5" width="255" height="200" alt="HTML Dog"></a></p>
+
+<h3>Meine Wochenübersicht</h3>
+<table>
+    <thead>
+    <tr>
+        <td>Wochentag</td>
+        <td>Von wem betreut</td>
+        <td>Was zum Mittagessen</td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Montag</td>
+        <td>Frank</td>
+        <td>Currywurst</td>
+    </tr>
+    <tr>
+        <td>Dienstag</td>
+        <td>Mario</td>
+        <td>Kartoffeln</td>
+    </tr>
+    </tbody>
+</table>
+
+<!-- <h3>Hier kommt ein Formular</h3>
+<p><strong>Note:</strong> It looks the part, but won't do a damned thing.</p>
+
+<form action="somescript.php" method="post">
+
+<p>Name:</p>
+<p><input name="name" value="Your name"></p>
+
+<p>Comments: </p>
+<p><textarea rows="10" cols="20" name="comments">Your comments</textarea></p>
+
+<p>Are you:</p>
+<p><input type="radio" name="areyou" value="male"> Male</p>
+<p><input type="radio" name="areyou" value="female"> Female</p>
+<p><input type="radio" name="areyou" value="hermaphrodite"> An hermaphrodite</p>
+<p><input type="radio" name="areyou" value="asexual" checked> Asexual</p>
+
+<p><input type="submit"></p>
+
+</form>
+-->
+</body>
+
+</html>
